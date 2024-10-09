@@ -44,6 +44,7 @@ El proyecto sigue una arquitectura lógica organizada en tres capas principales 
 
 ## Instalación
 
+
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/jesusaguero/reto_bcp/]
+   git clone https://github.com/jesusaguero/reto_bcp.git
