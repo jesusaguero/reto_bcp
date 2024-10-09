@@ -46,4 +46,4 @@ El proyecto sigue una arquitectura lógica organizada en tres capas principales 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone [https://github.com/jesusaguero/reto_bcp/]
